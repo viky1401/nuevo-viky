@@ -1,5 +1,4 @@
-#Aileen Jara 
-#to fomekee queremos vacaciones :/
+#victoria repol
 # Actualizar valores en diccionarios y listas
 
 #Matriz original

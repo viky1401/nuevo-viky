@@ -1,4 +1,4 @@
-#vcitoria repol
+#victoria repol
 #mostrar  un elemento de una lista por su posicion, ,manejando si la
 #posicion no existe 
 

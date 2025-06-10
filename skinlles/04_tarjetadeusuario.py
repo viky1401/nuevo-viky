@@ -1,4 +1,4 @@
-#Aileen Jara 
+#victoria repol
 #26-05
 from TarjetaCredito import TarjetaCredito
 
